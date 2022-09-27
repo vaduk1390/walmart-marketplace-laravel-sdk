@@ -1,5 +1,5 @@
 {
-    "name": "keithbrink/walmart-marketplace-laravel-sdk",
+    "name": "indeximstudio/walmart-marketplace-laravel-sdk",
     "description": "Connect to the Walmart Marketplace API using Laravel",
     "keywords": ["laravel", "walmart", "seller", "marketplace"],
     "license": "MIT",
